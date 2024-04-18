@@ -4,7 +4,7 @@
 
 ## Tentang
 
-Selamat datang di Permainan Suwit Jawa! Ini adalah sebuah website yang menampilkan permainan sederhana dari budaya Jawa, yaitu Suwit Jawa. Dengan menggunakan teknologi HTML, CSS, dan JavaScript, proyek ini menghadirkan keseruan permainan klasik yang seru untuk dimainkan bersama teman atau keluarga.
+Selamat datang! Ini adalah sebuah website yang menampilkan permainan sederhana dari budaya Jawa, yaitu Suwit Jawa. Dengan menggunakan teknologi HTML, CSS, dan JavaScript, proyek ini menghadirkan keseruan permainan klasik yang seru untuk dimainkan bersama teman atau keluarga.
 
 ## Aturan Permainan
 
