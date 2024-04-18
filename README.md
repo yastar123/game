@@ -37,4 +37,4 @@ Anda dipersilakan untuk memberikan masukan, melaporkan bug, atau mengajukan peru
 
 ## Lisensi
 
-Diprogram oleh [Edu Juanda Pratama](yastar123) under [MIT License](link_ke_lisensi).
+Diprogram oleh [Edu Juanda Pratama](yastar123)
